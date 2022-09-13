@@ -10,7 +10,7 @@ I am a **Full Stack** developer familier with  `python`, `java`, `JavaScript`,`H
 
 🔭 working on my Portfolio website and some `API` based projects
 
-🌱 learning __ React, Node.js, APIs, and GitHub Actions - CICD __
+🌱 learning **React, Node.js, APIs, and GitHub Actions - CICD**
 
 👯 I’m looking to collaborate on some Good opensource projects to help build a Collaborative experience
 
