@@ -21,7 +21,7 @@ I am a **Full Stack** developer familier with  `python`, `java`, `JavaScript`,`H
 📫 Reach me at 
   - 🌐 - `www.harshag90.cf`
   - ✉️ - `harshagnihotri90@gmail.com`
-  - in -  `inkedin.com/in/harshag90`
+  - in - `linkedin.com/in/harshag90`
   - 🕊️ - `twitter.com/HarshAg90`
   
 😄 Pronouns: He/Him
