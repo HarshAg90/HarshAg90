@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Harsh agnihotri
+# I am Harsh Agnihotri
 a Passionate programmer, trying to be the best I can be, 
 
 I am a **Full Stack** developer familier with  `python`, `java`, `JavaScript`,`Html`,`CSS`,`SQL`,`Firebase` etc
