@@ -1,16 +1,34 @@
 ### Hi there 👋
+# I am Harsh agnihotri
+a Passionate programmer, trying to be the best I can be, 
 
-<!--
-**HarshAg90/HarshAg90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full Stack** developer familier with  `python`, `java`, `JavaScript`,`Html`,`CSS`,`SQL`,`Firebase` etc
 
-Here are some ideas to get you started:
+🏫 Persuing Bachelor in Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 Freelancing and open to work
+
+🔭 I’m currently working on my Portfolio website and some `API` based projects
+
+🌱 I’m currently learning __ React, Node.js, APIs, and GitHub Actions - CICD
+
+👯 I’m looking to collaborate on some Good opensource projects to help build a Collaborative experience
+
+🤔 I’m looking for help with my Open Source journey
+
+💬 Ask me about Anything in Tech, Science, and Marvel 
+
+📫 Reach me at 
+  - 🌐 - `www.harshag90.cf`
+  - ✉️ - `harshagnihotri90@gmail.com`
+  - in -  `inkedin.com/in/harshag90`
+  - 🕊️ - `twitter.com/HarshAg90`
+  
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I prefer watching a movie than going out😂
+
+I am open to work and Happy to help, HMU, and let’s talk😀
+
+
+
