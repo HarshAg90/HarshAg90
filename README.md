@@ -8,13 +8,13 @@ I am a **Full Stack** developer familier with  `python`, `java`, `JavaScript`,`H
 
 🏢 Freelancing and open to work
 
-🔭 I’m currently working on my Portfolio website and some `API` based projects
+🔭 working on my Portfolio website and some `API` based projects
 
-🌱 I’m currently learning __ React, Node.js, APIs, and GitHub Actions - CICD
+🌱 learning __ React, Node.js, APIs, and GitHub Actions - CICD
 
 👯 I’m looking to collaborate on some Good opensource projects to help build a Collaborative experience
 
-🤔 I’m looking for help with my Open Source journey
+🤔 looking for help with my Open Source journey
 
 💬 Ask me about Anything in Tech, Science, and Marvel 
 
@@ -26,7 +26,7 @@ I am a **Full Stack** developer familier with  `python`, `java`, `JavaScript`,`H
   
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I prefer watching a movie than going out😂
+⚡ Fun fact: Drawing and watching movies / series whole night is my therapy
 
 I am open to work and Happy to help, HMU, and let’s talk😀
 
