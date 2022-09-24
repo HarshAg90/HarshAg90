@@ -19,7 +19,7 @@ I am a **Full Stack** developer familier with  `python`, `java`, `JavaScript`,`H
 💬 Ask me about Anything in Tech, Science, and Marvel 
 
 📫 Reach me at 
-  - 🌐 - [harshag90.cf](www.harshag90.cf)
+  - 🌐 - [harshag90.cf](https://www.harshag90.cf)
   - ✉️ - `harshagnihotri90@gmail.com`
   - in  - [/harshag90](https://www.linkedin.com/in/harshag90/)
   - 🕊️ - [/HarshAg90](https://twitter.com/HarshAg90)
