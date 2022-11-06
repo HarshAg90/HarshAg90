@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 # I am Harsh Agnihotri
 a Passionate programmer, trying to be the best I can be, 
 
@@ -28,7 +28,13 @@ I am a **Full Stack** developer familier with  `python`, `java`, `JavaScript`,`H
 
 ⚡ Fun fact: Drawing and watching movies / series whole night is my therapy
 
+![](https://komarev.com/ghpvc/?username=HarshAg90&color=brightgreen)
+
 I am open to work and Happy to help, HMU, and let’s talk😀
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAg90&layout=compact" alt="Languages"/> 
+</p>
 
 
 
