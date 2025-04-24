@@ -1,5 +1,5 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-# I am [Harsh Agnihotri](https://harshag90.github.io/portfolio-2-0/)
+# I am [Harsh Agnihotri](https://blush-cabbage-3d4.notion.site/Hi-I-m-Harsh-Agnihotri-c6c2efc1d4c445cab16d2e03ac57d656?pvs=74)
 a Passionate programmer, trying to be the best I can be, 
 
 <p align="center">
