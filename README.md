@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd5MWF4eHloOHh3ZXZwYTB6bThjeWRzYXB2cmdhaDIzZXUxODN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OnnUZxcHsbBN6/giphy.gif)" width="29px">
 # I am [Harsh Agnihotri](veryharsh.xyz)
 
 <p align="center">
