@@ -1,7 +1,7 @@
 # Supppp 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd5MWF4eHloOHh3ZXZwYTB6bThjeWRzYXB2cmdhaDIzZXUxODN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OnnUZxcHsbBN6/giphy.gif" width="200px">
 
-## You have reached '''Harsh Agnihotri'''
+## You have reached __Harsh Agnihotri__
 Software engineer working on Backend and AI Tech
 
 <p align="center">
