@@ -12,7 +12,7 @@ Software engineer working on Backend and AI Tech
 
 
 ## Contacts
-  - Web portfolio - veryharsh.xyz
+  - Web portfolio - [veryharsh.xyz](veryharsh.xyz)
   - Notion (probably more updated) - [notion - me](https://blush-cabbage-3d4.notion.site/Hi-I-m-Harsh-Agnihotri-c6c2efc1d4c445cab16d2e03ac57d656?pvs=74) 
   - Mail - `harshagnihotri90@gmail.com`
   - Linkedin  - [/harshag90](https://www.linkedin.com/in/harshag90/)
