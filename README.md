@@ -1,14 +1,14 @@
 # Supppp 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGd5MWF4eHloOHh3ZXZwYTB6bThjeWRzYXB2cmdhaDIzZXUxODN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OnnUZxcHsbBN6/giphy.gif" width="200px">
 
-## You have reached Harsh Agnihotri
+## You have reached '''Harsh Agnihotri'''
+Software engineer working on Backend and AI Tech
 
 <p align="center">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
 
 
-🏫 Software engineer working on Backend and AI Tech
 
 
 ## Contacts
