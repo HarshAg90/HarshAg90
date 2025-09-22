@@ -1,21 +1,12 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-# I am [Harsh Agnihotri](https://blush-cabbage-3d4.notion.site/Hi-I-m-Harsh-Agnihotri-c6c2efc1d4c445cab16d2e03ac57d656?pvs=74)
-a Passionate programmer, trying to be the best I can be, 
+# I am [Harsh Agnihotri](veryharsh.xyz)
 
 <p align="center">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br>
 </p>
 
 
-🏫 Persuing Bachelor in Computer Science
-
-🏢 Freelancing and open to work
-
-🔭 working on my Portfolio website and some `API` based projects
-
-🌱 learning **React, Node.js, APIs, and GitHub Actions - CICD**
-
+🏫 Software engineer working on Backend and AI Tech
 
 
 ## 📫 Reach me at
